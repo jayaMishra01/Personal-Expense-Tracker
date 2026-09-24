@@ -1,0 +1,4 @@
+1|Income|salary|25000|24-09-2026|monthly salary
+2|Expense|food|500|24-09-2026|lunch
+3|Income|salary|25000|24-09-2026|monthly salary
+4|Expense|food|500|24-09-2026|lunch
